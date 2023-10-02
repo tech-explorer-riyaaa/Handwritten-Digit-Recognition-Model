@@ -43,5 +43,7 @@ This repository contains a machine learning model for handwritten digit recognit
 Ensure you have the appropriate dependencies installed and configured before running the code. For any issues or inquiries, please feel free to contact [riyaaa.connects000@gmail.com].
 
 Happy coding! 🚀
+
 Riya Ahlawat
+
 IGDTUW
