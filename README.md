@@ -42,6 +42,8 @@ This repository contains a machine learning model for handwritten digit recognit
 
 Ensure you have the appropriate dependencies installed and configured before running the code. For any issues or inquiries, please feel free to contact [riyaaa.connects000@gmail.com].
 
+Submitted Project link on Devfolio : https://devfolio.co/projects/prismiedigitpredictor-e72c
+
 Happy coding! 🚀
 
 Riya Ahlawat
